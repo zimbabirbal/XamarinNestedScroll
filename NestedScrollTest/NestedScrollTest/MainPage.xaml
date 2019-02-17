@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:NestedScrollTest"
+             xmlns:controls="clr-namespace:NestedScrollTest.CustomRenderer; NestedScrollTest"
+             x:Class="NestedScrollTest.MainPage">
+
+    <ScrollView Padding="20">
+        <StackLayout>
+            <Label Text="Hello!!! Welcome to Smiley Panda"></Label>
+            <Label Text="Hello!!! Smiley Panda Loves you"></Label>
+            <Label Text="Hello!!! Welcome to Smiley Panda"></Label>
+            <Label Text="Hello!!! Smiley Panda Loves you"></Label>
+            <Label Text="Hello!!! Welcome to Smiley Panda"></Label>
+            <Label Text="Hello!!! Smiley Panda Loves you"></Label>
+            <Label Text="Panda Family"></Label>
+            <controls:NestedScroll x:Name="listview"
+                                   MinimumHeightRequest="96"
+                                   Margin="16,0">
+            </controls:NestedScroll>
+            <Label Text="Hello!!! Welcome to Smiley Panda"></Label>
+            <Label Text="Hello!!! Smiley Panda Loves you"></Label>
+            <Label Text="Hello!!! Welcome to Smiley Panda"></Label>
+            <Label Text="Hello!!! Smiley Panda Loves you"></Label>
+            <Label Text="Hello!!! Welcome to Smiley Panda"></Label>
+            <Label Text="Hello!!! Smiley Panda Loves you"></Label>
+            <Label Text="Hello!!! Welcome to Smiley Panda"></Label>
+            <Label Text="Hello!!! Smiley Panda Loves you"></Label>
+            <Label Text="Hello!!! Welcome to Smiley Panda"></Label>
+            <Label Text="Hello!!! Smiley Panda Loves you"></Label>
+        </StackLayout>
+    </ScrollView>
+
+</ContentPage>

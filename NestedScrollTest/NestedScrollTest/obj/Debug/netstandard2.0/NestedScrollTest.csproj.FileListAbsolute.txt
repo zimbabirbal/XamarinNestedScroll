@@ -1,0 +1,12 @@
+Z:\NestedScrollTest\NestedScrollTest\NestedScrollTest\bin\Debug\netstandard2.0\NestedScrollTest.deps.json
+Z:\NestedScrollTest\NestedScrollTest\NestedScrollTest\bin\Debug\netstandard2.0\NestedScrollTest.dll
+Z:\NestedScrollTest\NestedScrollTest\NestedScrollTest\bin\Debug\netstandard2.0\NestedScrollTest.pdb
+Z:\NestedScrollTest\NestedScrollTest\NestedScrollTest\obj\Debug\netstandard2.0\NestedScrollTest.csprojAssemblyReference.cache
+Z:\NestedScrollTest\NestedScrollTest\NestedScrollTest\obj\Debug\netstandard2.0\App.xaml.g.cs
+Z:\NestedScrollTest\NestedScrollTest\NestedScrollTest\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+Z:\NestedScrollTest\NestedScrollTest\NestedScrollTest\obj\Debug\netstandard2.0\NestedScrollTest.csproj.CoreCompileInputs.cache
+Z:\NestedScrollTest\NestedScrollTest\NestedScrollTest\obj\Debug\netstandard2.0\NestedScrollTest.AssemblyInfoInputs.cache
+Z:\NestedScrollTest\NestedScrollTest\NestedScrollTest\obj\Debug\netstandard2.0\NestedScrollTest.AssemblyInfo.cs
+Z:\NestedScrollTest\NestedScrollTest\NestedScrollTest\obj\Debug\netstandard2.0\XamlC.stamp
+Z:\NestedScrollTest\NestedScrollTest\NestedScrollTest\obj\Debug\netstandard2.0\NestedScrollTest.dll
+Z:\NestedScrollTest\NestedScrollTest\NestedScrollTest\obj\Debug\netstandard2.0\NestedScrollTest.pdb
